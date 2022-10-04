@@ -1,0 +1,54 @@
+{
+   "basics":{
+      "firstName":"Roydon",
+      "lastName":"DSouza",
+      "email":"contact@roydon.io",
+      "url":"roydondsouza.com",
+      "location":{
+         "city":"Mangalore",
+         "state":"Karnataka",
+         "country":"India"
+      },
+      "work":[
+         {
+            "title":"Software Engineer",
+            "company":"InVideo",
+            "startDate":"2020-12-14",
+            "endDate":null
+         },
+         {
+            "title":"Software Engineer",
+            "company":"Datamatics",
+            "startDate":"2013-01-15",
+            "endDate":"2020-12-01"
+         }
+      ],
+      "social":[
+         {
+            "network":"twitter",
+            "username":"roydondsouza",
+            "url":"https://twitter.com/roydondsouza"
+         },
+         {
+            "network":"linkedin",
+            "username":"in/roydondsouza",
+            "url":"https://linkedin.com/in/roydondsouza"
+         },
+         {
+            "network":"github",
+            "username":"roydondsouza",
+            "url":"https://github.com/roydondsouza"
+         },
+         {
+            "network":"instagram",
+            "username":"roydondsouza",
+            "url":"https://instagram.com/roydondsouza"
+         },
+         {
+            "network":"facebook",
+            "username":"roydondsouza",
+            "url":"https://facebook.com/roydondsouza"
+         }
+      ]
+   }
+}

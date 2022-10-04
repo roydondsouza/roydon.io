@@ -9,3 +9,7 @@ Hosted using the following Cloudflare features:
 - Email routing (contact@roydon.io)
 - Analytics
 
+Inspiration:
+-
+- [kamal.io](kamal.io)
+- [jsonresume.org](https://jsonresume.org/schema/)

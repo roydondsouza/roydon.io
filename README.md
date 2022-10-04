@@ -11,5 +11,5 @@ Hosted using the following Cloudflare features:
 
 Inspiration:
 -
-- [kamal.io](kamal.io)
-- [jsonresume.org](https://jsonresume.org/schema/)
+- [kamal.io](https://kamal.io/)
+- [jsonresume.org](https://jsonresume.org/)

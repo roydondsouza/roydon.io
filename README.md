@@ -1,6 +1,6 @@
 # roydon.io
 
-Using the following cloudflare features:
+Hosted using the following Cloudflare features:
 - 
 - Domain Registration (roydon.io)
 - DNS (DNSSEC enabled)

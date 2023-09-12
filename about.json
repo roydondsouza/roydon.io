@@ -12,6 +12,12 @@
    },
    "work":[
       {
+         "title":"Founder",
+         "company":"Orbtrex Corp",
+         "startDate":"2023-01-14",
+         "endDate":null
+      },
+      {
          "title":"Software Engineer",
          "company":"InVideo",
          "startDate":"2020-12-14",
